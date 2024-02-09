@@ -4,7 +4,8 @@ A petite attempt on creating a subpar website that helps you ask your crush out 
 Scared of making obvious moves on your crush? Wanna ask your techy partner out for a date? I've got you.
 Here's an fun giddy way to ease up the barriers and tension to get your target to go out with you on a date.
 Let's break down the steps:
-1) Send this link to the target 🎯: [Click me](file:///F:/Valentine/Asking-for-a-Date-from-your-Crush-main/Asking-for-a-Date-from-your-Crush-main/Date/Date.html)
+1) Send the link to the target 🎯
+
 2) The following page pops up first
 
 <img width="960" alt="Screenshot 2024-02-09 233134" src="https://github.com/NotaWhiteHatJr/Valentine-2024/assets/147854864/66139617-1b7b-4341-a7d7-ba854746bc3a">
